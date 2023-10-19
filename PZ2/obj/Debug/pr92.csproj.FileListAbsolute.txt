@@ -1,0 +1,31 @@
+C:\Users\vladi\Desktop\grafika\pr92\pr92\bin\Debug\PZ3_PR_34_2017.exe.config
+C:\Users\vladi\Desktop\grafika\pr92\pr92\bin\Debug\PZ3_PR_34_2017.exe
+C:\Users\vladi\Desktop\grafika\pr92\pr92\bin\Debug\PZ3_PR_34_2017.pdb
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\pr92.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\MainWindow.g.cs
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\App.g.cs
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\PZ3_PR_34_2017_MarkupCompile.cache
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\PZ3_PR_34_2017_MarkupCompile.lref
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\MainWindow.baml
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\PZ3_PR_34_2017.g.resources
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\PZ3_PR_34_2017.Properties.Resources.resources
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\pr92.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\pr92.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\PZ3_PR_34_2017.exe
+C:\Users\vladi\Desktop\grafika\pr92\pr92\obj\Debug\PZ3_PR_34_2017.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\bin\Debug\PZ3_PR_34_2017.exe.config
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\bin\Debug\PZ3_PR_34_2017.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\bin\Debug\PZ3_PR_34_2017.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\pr92.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\pr92.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\PZ3_PR_34_2017_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\PZ3_PR_34_2017_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\PZ3_PR_34_2017.g.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\PZ3_PR_34_2017.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\pr92.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\pr92.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\PZ3_PR_34_2017.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ2 Uradjeni projekti\pr92\pr92\pr92\obj\Debug\PZ3_PR_34_2017.pdb

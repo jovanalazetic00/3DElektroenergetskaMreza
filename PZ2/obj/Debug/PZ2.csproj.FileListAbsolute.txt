@@ -1,0 +1,76 @@
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\bin\Debug\PZ2_PR_96_2019.exe.config
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\bin\Debug\PZ2_PR_96_2019.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\bin\Debug\PZ2_PR_96_2019.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2_PR_96_2019_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2_PR_96_2019_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2_PR_96_2019.g.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2_PR_96_2019.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2_PR_96_2019.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Nikola\PZ2\PZ2\obj\Debug\PZ2_PR_96_2019.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\bin\Debug\PZ2.exe.config
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\bin\Debug\PZ2.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\bin\Debug\PZ2.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2.g.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ2\Sotra\PZ2\PZ2\obj\Debug\PZ2.pdb
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\user\Downloads\Sotra\Sotra\PZ2\PZ2\obj\Debug\PZ2.pdb
+C:\Users\user\Desktop\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\user\Desktop\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\user\Desktop\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\user\Desktop\PZ2\PZ2\obj\Debug\PZ2.pdb
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\User\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.pdb
